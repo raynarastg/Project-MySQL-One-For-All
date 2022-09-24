@@ -105,7 +105,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
     INSERT INTO SpotifyClone.musics(music, duration_seconds, albuns_id)
   VALUES
     ('BREAK MY SOUL', '279', 1),
-    ('VIRGO’S GROOVE', '369', 1),
+    ('VIRGOS GROOVE', '369', 1),
     ('ALIEN SUPERSTAR', '116', 1),
     ('Don’t Stop Me Now', '203', 2),
     ('Under Pressure', '152', 3),
@@ -119,7 +119,7 @@ DROP DATABASE IF EXISTS SpotifyClone;
     INSERT INTO SpotifyClone.history(reproduction_history, reproduction_date, music_id, user_id)
   VALUES
     ('Samba em Paris', '2022-02-28 10:45:55', 8, 1),
-    ('VIRGO´S GROOVE', '2020-05-02 05:30:35', 2, 1),
+    ('VIRGO’S GROOVE', '2020-05-02 05:30:35', 2, 1),
     ('Feeling Good', '2020-03-06 11:22:33', 10, 1),
     ('Feeling Good', '2022-08-05 08:05:17', 10, 2),
     ('O Medo de Amar é o Medo de Ser Livre', '2020-01-02 07:40:33', 7, 2),
