@@ -3,7 +3,7 @@
 <details>
   <summary><strong>👨‍💻 O que foi desenvolvido nesse projeto</strong></summary><br />
 
-Neste projeto meu desafio foi pegar uma tabela não normalizada e deixa-la normalizada e populada para que você pudesse executar as queries para encontrar as informações solicitadas.
+Neste projeto meu desafio foi pegar uma tabela não normalizada e normaliza-la e popula-la para que pudesse executar as queries para encontrar as informações solicitadas.
 
 </details>
 
